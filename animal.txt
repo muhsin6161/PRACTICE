@@ -17,6 +17,7 @@ inek
 muskar
 okuz
 sigir
+lama
 
 
 
