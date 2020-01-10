@@ -5,4 +5,7 @@ at
 esek
 fil
 cita
-zurafa
+zurafagit
+geyik
+karaca
+
