@@ -10,5 +10,8 @@ geyik
 karaca
 ayi
 kurt
+yilan 
+timsah
+
 
 
