@@ -8,4 +8,7 @@ cita
 zurafagit
 geyik
 karaca
+ayi
+kurt
+
 
